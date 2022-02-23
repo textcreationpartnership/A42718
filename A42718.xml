@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of the Nativity of our Lord preach'd before the King and Queen at White-Hall, 1687 by Bonaventure Giffard ...</title>
+            <author>Giffard, Bonaventure, 1642-1734.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42718</idno>
+            <idno type="STC">Wing G689</idno>
+            <idno type="STC">ESTC R31520</idno>
+            <idno type="EEBO-CITATION">12041048</idno>
+            <idno type="OCLC">ocm 12041048</idno>
+            <idno type="VID">52980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52980)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1011:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of the Nativity of our Lord preach'd before the King and Queen at White-Hall, 1687 by Bonaventure Giffard ...</title>
+                  <author>Giffard, Bonaventure, 1642-1734.</author>
+               </titleStmt>
+               <extent>[2], 33 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ... and are to be sold by him ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Sermons --  17th century.</term>
+               <term>Christmas sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52980:1" rendition="simple:additions"/>
+            <p>A SERMON OF THE Nativity of Our Lord. Preach'd before the King and Queen At <hi>WHITE-HALL.</hi> 1687.</p>
+            <p>By <hi>Bonaventure Giffard,</hi> Doctor of <hi>Sorbon,</hi> Chap<g ref="char:EOLhyphen"/>lain in Ordinary, and Preacher to Their MAJESTIES.</p>
+            <p>Publiſh'd by His Majeſties Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's moſt Excellent Majeſty, for his Houſhold and Chappel; and are to be ſold by Him, at the <hi>Ditch-ſide</hi> in <hi>Black-Fryers,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:52980:2"/>
+            <pb n="1" facs="tcp:52980:2"/>
+            <head>A SERMON OF THE Nativity of Our Lord Preach'd before the King &amp; Queen.</head>
+            <epigraph>
+               <q>
+                  <p>Gloria in altiſſimis Deo, &amp; in terrà Pax Ho<g ref="char:EOLhyphen"/>minibus bonae voluntatis.</p>
+                  <p>Glory in the Higheſt to God, and in Earth, Peace to Men of good Will.</p>
+               </q>
+            </epigraph>
+            <p>Theſe Words were ſung by a full Choire of An<g ref="char:EOLhyphen"/>gels at the Birth of our Saviour, as we find related by St. <bibl>Luke c. 2. v. 14.</bibl>
+            </p>
+            <p>A Stable! A Manger! A little Hay! Some poor Swadling Bands! A helpleſs Infant! Adeſolate young Maid! An Ox! An Aſs! What
+<pb n="2" facs="tcp:52980:3"/>
+great Matter of <hi>Glory to God,</hi> or Subject of ſo much Joy to the <hi>Angels?</hi> What is there in all this poor <hi>Equipage,</hi> that ſhould deſerve to call down theſe Noble <hi>Spirits</hi> from <hi>Heaven,</hi> to ſolemnize it's Triumphs upon Earth? <hi>Oh God!</hi> How different are thy Judgments from thoſe of <hi>Men?</hi> And by how oppoſit Ways doſt thou ſeek thy <hi>Glory,</hi> from thoſe which <hi>Men</hi> take to eſtabliſh Theirs? <hi>Men</hi> place all their Glory in great Riches, magnificent Hou<g ref="char:EOLhyphen"/>ſes, brave Apparel, ſumptuous Entertainments, numerous Attendants, and ſuch like Supports of their Vanity and Miſery. But all the Glo<g ref="char:EOLhyphen"/>ry <hi>God Almighty</hi> deſigns to draw from the great Work of the Worlds <hi>Redemption;</hi> be<g ref="char:EOLhyphen"/>hold, he grounds it on the Poverty, Humi<g ref="char:EOLhyphen"/>lity, and abjection of His <hi>eternal Son.</hi> Hence, as you ſee, for his Royal <hi>Pallace,</hi> he has pro<g ref="char:EOLhyphen"/>vided him a ruinous <hi>Stable;</hi> for his <hi>Bed</hi> of <hi>State,</hi> a hard <hi>Manger;</hi> for his Noble and nu<g ref="char:EOLhyphen"/>merous <hi>Attendants,</hi> an <hi>Ox,</hi> an <hi>Aſs,</hi> or at beſt, ſome few poor <hi>Shepherds.</hi> In fine, Inſtead of mighty <hi>Treaſures,</hi> and great plenty of all Things, the utmoſt extremity of <hi>Poverty.</hi>
+            </p>
+            <p>This, <hi>Chriſtians,</hi> this is the conduct <hi>Almigh<g ref="char:EOLhyphen"/>ty God</hi> has us'd with his eternal <hi>Son,</hi> at his firſt coming into the World: This is the Method
+<pb n="3" facs="tcp:52980:3"/>
+he has taken to purchaſe that <hi>Glory</hi> to him<g ref="char:EOLhyphen"/>ſelf; to give that <hi>Peace</hi> and <hi>Joy</hi> to Men, which the <hi>Angels</hi> this day publiſh to the World in their <hi>Chriſtmaſs</hi> Carol, of <hi>Gloria in altiſſimis</hi> 
+               <note place="margin">Luke 2. 14.</note>
+               <hi>Deo, &amp; in terrâ Pax Hominibus bonae voluntatis.</hi>
+            </p>
+            <p>
+               <hi>Divine Spirit!</hi> enlighten my Mind, inſpire my Thoughts, help me to apprehend the de<g ref="char:EOLhyphen"/>ſign of thy Eternal <hi>Wiſdom</hi> in this aſtoniſhing <hi>Myſtery.</hi> I beg this of Thee, by the Interceſ<g ref="char:EOLhyphen"/>ſion of the <hi>Virgin Mother,</hi> who this Day brought forth that heavenly <hi>Child,</hi> which She conceiv'd by the Operation of thy Virtue, at the ſame time that the Angel ſaluted Her.</p>
+            <p>Ave Maria, &amp;c.</p>
+            <q>Glory in the Higheſt to God, and in Earth peace to Men of good will.</q>
+            <p>The <hi>Glory</hi> which Almighty God had in the <hi>World</hi> before the coming of our Saviour, ſeems to have been much eclips'd, and reduc'd to a very ſmall Point; for the <hi>Devil,</hi> who no ſooner became his <hi>Enemy,</hi> but alſo turn'd his <hi>Rival;</hi> ſince he could not become like to <hi>God</hi> in <hi>Heaven,</hi> reſolv'd at leaſt to be ador'd for God upon <hi>Earth:</hi> And thence (as St. <hi>Gregory Nazianzen</hi> obſerves,) he has endeavor'd to
+<pb n="4" facs="tcp:52980:4"/>
+poſſeſs that <hi>Divinity</hi> in the Opinion of <hi>Men,</hi> which he could not ſteal from the uncom<g ref="char:EOLhyphen"/>municable Nature of his <hi>Maker. Qui Divi<g ref="char:EOLhyphen"/>nitatem in Coelis habere non potuit, in Terris ha<g ref="char:EOLhyphen"/>bere conatus eſt.</hi>
+            </p>
+            <p>And indeed, if the Worſhip of <hi>Men</hi> could encreaſe or leſſen the <hi>Majeſty</hi> of <hi>God;</hi> if his Glory were to be calculated by the num<g ref="char:EOLhyphen"/>ber of his <hi>Adorers;</hi> one might thence think (which otherwiſe to imagin were a Blaſphe<g ref="char:EOLhyphen"/>my,) that <hi>Lucifer</hi> had got the upper hand: Since, if we reflect on the ſad Condition the whole World was in, before the Birth of our <hi>Saviour;</hi> we ſhall find, that this proud and re<g ref="char:EOLhyphen"/>bellious <hi>Spirit</hi> was more worſhip'd, more glo<g ref="char:EOLhyphen"/>rify'd by Men, than his Sovereign <hi>Lord</hi> and <hi>Maker.</hi> For if the true <hi>God</hi> was then wor<g ref="char:EOLhyphen"/>ſhip'd by the <hi>Jews;</hi> falſe <hi>Gods</hi> were ador'd by all other <hi>Nations.</hi> If <hi>God</hi> had ſome zealous <hi>Prophets</hi> to pronounce his <hi>Oracles;</hi> the <hi>Devil</hi> had many Idolatrous <hi>Prieſts</hi> to publiſh his <hi>Lies.</hi> If <hi>God</hi> had an <hi>Altar</hi> conſecrated to his Service in <hi>Hieruſalem;</hi> the <hi>Devil</hi> had many <hi>Temples</hi> dedicated to his Honor through<g ref="char:EOLhyphen"/>out the reſt of the <hi>World.</hi> If <hi>God</hi> was honor'd by the Sacrifice of <hi>Beaſts;</hi> the <hi>Devil</hi> was worſhip'd by the Slaughter of <hi>Men.</hi> So
+<pb n="5" facs="tcp:52980:4"/>
+that we are forc'd to own and lament, that before the coming of the <hi>Meſſias,</hi> the exter<g ref="char:EOLhyphen"/>nal <hi>Glory</hi> of <hi>God,</hi> (which conſiſts in the Wor<g ref="char:EOLhyphen"/>ſhip of <hi>Men,)</hi> was ſhut up within a narrow compaſs; confin'd to one little Corner of the <hi>Earth. Notus in Judaea Deus.</hi> 
+               <note place="margin">Pſal. 75.</note>
+            </p>
+            <p>But on this <hi>Day,</hi> God Almighty begins to do himſelf <hi>right;</hi> He has ſent down his Eter<g ref="char:EOLhyphen"/>nal <hi>Son</hi> to vindicate his Honor, to eſtabliſh his <hi>Glory,</hi> to ſubdue his proud <hi>Rival,</hi> to diſ<g ref="char:EOLhyphen"/>poſſeſs him of the <hi>Empire</hi> he had gain'd over the Minds of <hi>Men.</hi> St. <hi>John,</hi> the faithful <hi>In<g ref="char:EOLhyphen"/>terpreter</hi> of his Deſigns, tells us, That 'tis for this the <hi>Son</hi> of <hi>God</hi> is come into the World, to deſtroy the Works of the Devil. <hi>In hoc apparuit Filius Dei, ut diſſolvat opera Diaboli.</hi> 
+               <note place="margin">1 John 3. 8.</note>And the Way he has taken to do this, is as ſtrange in it ſelf, as it has prov'd efficacious in the Effect.</p>
+            <p>The <hi>Devil</hi> grounded all his <hi>Glory</hi> on the deluded Imaginations of his <hi>Followers.</hi> To make them <hi>Idolaters</hi> of his falſe <hi>Deity;</hi> he firſt poſſeſs'd them with an erroneous Conceit of their own <hi>Greatneſs.</hi> To perſuade them to offer Incenſe to the <hi>Statu's</hi> they had rais'd in his <hi>Temples,</hi> he firſt taught them to adore the <hi>Idols</hi> he had ſet up in their <hi>Minds; Honor,
+<pb n="6" facs="tcp:52980:5"/>
+Riches, Pleaſure,</hi> are the three great <hi>Gods</hi> he places on the <hi>Altar</hi> of their <hi>Hearts;</hi> to theſe, he makes them ſacrifice all their Thoughts, all their Affections, their Body, their Soul, their Eternity, their All. He perſuades them, that all their <hi>Glory</hi> conſiſts in worldly <hi>Greatneſs,</hi> all their <hi>Happineſs</hi> in an affluence of tempo<g ref="char:EOLhyphen"/>ral <hi>Riches,</hi> and their chief <hi>Beatitude</hi> in a full enjoyment of ſenſual <hi>Satisfactions.</hi>
+            </p>
+            <p>To deſtroy this <hi>Work</hi> of the <hi>Devil,</hi> to diſa<g ref="char:EOLhyphen"/>buſe Men of theſe falſe Notions he had im<g ref="char:EOLhyphen"/>bu'd them with, the <hi>Son</hi> of <hi>God</hi> is come into the World after the manner in which our preſent <hi>Solemnity</hi> repreſents him to us; to ſhew us, how little eſteem we ought to make of all the <hi>Glory</hi> and <hi>Greatneſs</hi> of the <hi>World;</hi> He would become a <hi>Child,</hi> He would appear little and abject; to quench in us that ardent Thirſt<g ref="char:punc">▪</g> we have after <hi>Riches;</hi> He has reduc'd himſelf to the greateſt <hi>Poverty</hi> ima<g ref="char:EOLhyphen"/>ginable: To take out of our Hearts that inor<g ref="char:EOLhyphen"/>dinate Love of <hi>Eaſe</hi> and <hi>Pleaſure;</hi> He begins his Life all in <hi>Sufferings</hi> and <hi>Mortifications.</hi>
+            </p>
+            <p>'Tis thus that <hi>Jeſus Chriſt</hi> moſt Succeſsfully eſtabliſhes the <hi>Glory</hi> of <hi>God,</hi> becauſe 'tis thus that he moſt powerfully Triumphs over thoſe <hi>Vices</hi> which keep Men Slaves to the <hi>Devil:</hi>
+               <pb n="7" facs="tcp:52980:5"/>
+And hence, when the <hi>Angels</hi> ſaw him laid thus low in the <hi>Manger;</hi> then it was that they begun to ſing <hi>Glory</hi> to <hi>God,</hi> and <hi>Peace</hi> to <hi>Men. Glory</hi> to <hi>God,</hi> becauſe <hi>Jeſus</hi> is come to cure our <hi>Pride</hi> by his <hi>Humility;</hi> our <hi>Avarice</hi> by his <hi>Poverty;</hi> our <hi>Exceſſes</hi> and <hi>Intemperances</hi> by his <hi>Mortifications. Gloria in altiſſimis Deo. Peace</hi> and <hi>Joy</hi> to <hi>Men of good will;</hi> to <hi>Men</hi> that are willing to learn of ſuch a <hi>Maſter;</hi> to <hi>Men</hi> that are willing to be inſtructed by ſuch an <hi>Ex<g ref="char:EOLhyphen"/>ample;</hi> to <hi>Men</hi> that are willing to be ſav'd by ſuch a <hi>Saviour. Pax Hominibus bonae vo<g ref="char:EOLhyphen"/>luntatis.</hi> 'Tis thus the <hi>Angels</hi> divide their <hi>Canticle;</hi> and 'tis thus I ſhall divide my pre<g ref="char:EOLhyphen"/>ſent <hi>Diſcourſe.</hi> The Firſt Part whereof ſhall ſhew you, what our <hi>Saviour</hi> did this Day for our Inſtruction; The Second, what we muſt learn from his Example. What <hi>Jeſus</hi> did to be a <hi>Saviour</hi> to <hi>Men;</hi> what <hi>Men</hi> muſt do to be ſav'd by <hi>Jeſus.</hi> Theſe two Points make the diviſion of my Sermon, and Subject of your Attention.</p>
+            <div n="1" type="part">
+               <head>The Firſt Part.</head>
+               <p>If the <hi>
+                     <g ref="char:V">Ʋ</g>nion</hi> of the eternal <hi>God</hi> to our hu<g ref="char:EOLhyphen"/>man Nature, be aſtoniſhing; the manner of his
+<pb n="8" facs="tcp:52980:6"/>
+coming into the World is not a little ſur<g ref="char:EOLhyphen"/>prizing! For tho an exceſs of Goodneſs might have carry'd him to this ſtrange Commu<g ref="char:EOLhyphen"/>nication of himſelf; tho the love of Men might have mov'd him to become <hi>Man;</hi> yet methinks, he might have done it after the moſt honorable manner; he might have ap<g ref="char:EOLhyphen"/>pear'd at the full Stature of a Man, and ac<g ref="char:EOLhyphen"/>compliſh'd with all the Perfections human Nature is capable of. But to Cloath himſelf with our <hi>Mortality,</hi> in its meaneſt Dreſs; to ſhut himſelf up for nine Months in the <hi>Bowels</hi> of a <hi>Woman;</hi> to come into the World under the Form of a <hi>Child;</hi> to have Reaſon in it's higheſt Perfection, and yet to be reduc'd to the Condition of an <hi>Infant;</hi> This is what a<g ref="char:EOLhyphen"/>ſtoniſheth <hi>Heaven</hi> and <hi>Earth;</hi> this is the ad<g ref="char:EOLhyphen"/>miration of <hi>Angels</hi> and <hi>Men.</hi>
+               </p>
+               <p>And certainly, <hi>Chriſtians,</hi> whoſoever ſhould reflect well on the <hi>Majeſty, Infinity, Immen<g ref="char:EOLhyphen"/>ſity, Eternity,</hi> and the reſt of <hi>Gods</hi> glorious <hi>At<g ref="char:EOLhyphen"/>tributes,</hi> and then ſhould behold a <hi>Child</hi> new<g ref="char:EOLhyphen"/>ly brought into the World; queſtionleſs, he would ſtand amaz'd, to think that the <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> of <hi>Heaven</hi> ſhould Inhabit within ſuch an inconſiderable piece of Fleſh; that ſo bound<g ref="char:EOLhyphen"/>leſs an <hi>Ocean</hi> ſhould be ſhut up within ſo nar<g ref="char:EOLhyphen"/>row
+<pb n="9" facs="tcp:52980:6"/>
+a <hi>Channel,</hi> that the eternal <hi>God</hi> ſhould become a <hi>Child.</hi> And yet thus it is, <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> the great <hi>God</hi> of <hi>Heaven</hi> is become a <hi>Child;</hi> the <hi>Antient</hi> of <hi>Days</hi> is newly come in<g ref="char:EOLhyphen"/>to the <hi>World;</hi> the eternally begotten <hi>Son</hi> of the Divine <hi>Father,</hi> behold, he's born an <hi>In<g ref="char:EOLhyphen"/>fant. Parvulus natus eſt nobis, &amp; Filius datus</hi> 
+                  <note place="margin">Iſa. 9. 6.</note>
+                  <hi>eſt nobis.</hi>
+               </p>
+               <p>Whatſoever therefore you have ſeen; what<g ref="char:EOLhyphen"/>ſoever you imagin to be the Condition of o<g ref="char:EOLhyphen"/>ther <hi>Infants</hi> at their <hi>Birth;</hi> think the ſame of your great <hi>God,</hi> for he is become exactly like them in all things, excepting only Sin. He's <note place="margin">Heb. 4. 15.</note>born Naked and Needy, like other <hi>Infants;</hi> Weak and Feeble, like others; He Weeps and Cry's like others; He's wrap'd in Swadling Cloaths like others; He Feeds at his Mothers Breaſt like others, and ſomething below the meaneſt Condition of all other <hi>Infants;</hi> in<g ref="char:EOLhyphen"/>ſtead of a <hi>Cradle,</hi> He is laid in a hard <hi>Man<g ref="char:EOLhyphen"/>ger,</hi> expos'd to the ſharp Winds of a Win<g ref="char:EOLhyphen"/>ter Night, the Wants and Incommodities of a deſolate Place. <hi>Pannis eum involvit, &amp; re<g ref="char:EOLhyphen"/>clinavit</hi> 
+                  <note place="margin">Luke 2. 7<g ref="char:punc">▪</g>
+                  </note>
+                  <hi>in praeſepio.</hi>
+               </p>
+               <p>O Bleſſed <hi>Jeſus!</hi> how do's this poor Lodg<g ref="char:EOLhyphen"/>ing ſuit with Thee, who haſt <hi>Heaven</hi> for thy <hi>Throne,</hi> and the whole <hi>Earth</hi> for thy <hi>Footſtool?</hi>
+                  <pb n="10" facs="tcp:52980:7"/>
+How do's this <hi>Manger</hi> agree with Thee, who repoſeſt in the <hi>Boſom</hi> of thy Divine <hi>Father?</hi> How do theſe Tears become thee, who art the Joy of all the Angels in Heaven, and God of all Conſolation here upon Earth? How do's this want of Cloaths, this need of a little Milk fall upon Thee, who feathereſt the Birds, feedeſt the Beaſts, and art abſolute Lord of the whole Univerſe?</p>
+               <p>Ah <hi>Chriſtians!</hi> let us ſtop and pauſe here a while; let our Heart ſpeak by it's Affe<g ref="char:EOLhyphen"/>ctions, what our Tongue cannot utter by Ex<g ref="char:EOLhyphen"/>preſſions; let us behold with a ſilent Aſto<g ref="char:EOLhyphen"/>niſhment, what we cannot diſcourſe but with Admirations and Exclamations!</p>
+               <p>The great <hi>God of Heaven</hi> become a <hi>Child!</hi> the increated <hi>Wiſdom</hi> and <hi>Word</hi> of <hi>God, ſilent</hi> and <hi>ſpeechleſs!</hi> the <hi>King</hi> of <hi>Glory</hi> lodg'd in a <hi>Stable!</hi> the <hi>Lord</hi> of all things, in <hi>Want</hi> and <hi>Poverty!</hi>
+               </p>
+               <p>Oh Heavens! What think you of this? Or rather, Dear Chriſtians, (ſince 'tis for you He's born,) what think you of this? Why think you, has the great God of Heaven thus humbled himſelf upon Earth? Why did He chooſe to come into the World after this ſtrange manner? I ſay, why did he <hi>chooſe?</hi>
+                  <pb n="11" facs="tcp:52980:7"/>
+For we muſt not imagin, that theſe Things happen'd thus by <hi>chance.</hi> 'Twas not the Un<g ref="char:EOLhyphen"/>kindneſs and Inhumanity of the hard-heart<g ref="char:EOLhyphen"/>ed <hi>Bethlemites</hi> that forc'd him into a Stable. 'twas not their refuſing his <hi>Mother</hi> a Lodg<g ref="char:EOLhyphen"/>ing, that oblig'd him to lye in a <hi>Manger.</hi> Oh no! He that can ſoften the Hearts of <hi>Ty<g ref="char:EOLhyphen"/>gers,</hi> could have made his Mother find a Welcom amongſt her own <hi>Relations.</hi> He that places <hi>Kings</hi> on the <hi>Throne,</hi> could have rais'd himſelf a <hi>Palace</hi> in the Fields of <hi>Beth<g ref="char:EOLhyphen"/>lehem.</hi> 'Twas not therefore any want of Power or Forecaſt; 'twas not any Ne<g ref="char:EOLhyphen"/>ceſſity, or chance that reduc'd him to this Condition. Other Infants indeed, have it not in their Power to chooſe the Time, the Place, and manner of their Birth; but this divine Child, had all theſe things at his own choice and diſpoſal. And why then did he chooſe to be born in the depth of Winter, and ob<g ref="char:EOLhyphen"/>ſcurity of the Night? Why did he chooſe a Stable, a Manger, for his Lodging? Why did he call only poor <hi>Shepherds,</hi> to give him the firſt Welcom into the World? Ah! St. <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> gives the true reaſon, when he tells us, All this was to confound the <hi>Pride</hi> and <hi>Va<g ref="char:EOLhyphen"/>nity</hi> of the <hi>World;</hi> to condemn the luxe
+<pb n="12" facs="tcp:52980:8"/>
+Eaſe, and Exceſſes of Men. <hi>Cur ſtabulum Chriſtus elegit? Plane ut reprobet Mundi glo<g ref="char:EOLhyphen"/>riam, ut damnet ſaeculi Vanitatem.</hi> To inſtruct us by <hi>Example,</hi> before he could teach us by <hi>Words;</hi> to convince us (ſay's St. <hi>Auguſtin)</hi> by his own Choice, what little Eſteem we ought to have of all the Glory, Greatneſs, Riches, Pomps and Pleaſures of this Life; He con<g ref="char:EOLhyphen"/>temn'd them all. <hi>Omnia terrena bona contemp<g ref="char:EOLhyphen"/>ſit Chriſtus, ut contemnenda monſtraret.</hi>
+               </p>
+               <p>He choſe to be <hi>poor,</hi> that rich Men might not think themſelves happy; He would not be <hi>rich,</hi> that poor Men might not think themſelves miſerable. He would want all that the World moſt eſteems; He would ſuf<g ref="char:EOLhyphen"/>fer all that the World moſt abhors; that we ſhould neither place our <hi>Happineſs</hi> in the one, nor fear any <hi>Adverſity</hi> from the other. <hi>
+                     <g ref="char:V">Ʋ</g>t nec in iſtis quaereretur felicitas, nec in iſtis time<g ref="char:EOLhyphen"/>retur adverſitas.</hi>
+               </p>
+               <p>Chriſt ſaw that Men would loſe the Glo<g ref="char:EOLhyphen"/>ry of Heaven, by their ambitious Deſires of Temporal Greatneſs; and therefore He made himſelf ſo little. Chriſt ſaw that Men would forfeit their eternal <hi>Inheritance,</hi> by fix<g ref="char:EOLhyphen"/>ing their Hearts ſo much on the Goods of the Earth; and therefore He appears ſo poor
+<pb n="13" facs="tcp:52980:8"/>
+and indigent. Chriſt ſaw that Men would loſe the Joy's of <hi>Paradiſe,</hi> by indulging their Eaſe and Pleaſures in this Life; and therefore He choſe to lye in a Manger. <hi>Omnia terrena bona contempſit Chriſtus, ut contemnenda mon<g ref="char:EOLhyphen"/>ſtraret.</hi>
+               </p>
+               <p>O my God! 'tis here I own the greatneſs both of thy Mercy, and our Miſery; 'tis from the ſtrangeneſs of this Remedy, that I come to underſtand the depth of our Wounds; <hi>Ex</hi> 
+                  <note place="margin">St. <hi>Bern.</hi> Serm. 3. <hi>de Nativi<g ref="char:EOLhyphen"/>tate.</hi>
+                  </note>
+                  <hi>conſideratione remedii, periculi mei aeſtimo quan<g ref="char:EOLhyphen"/>titatem.</hi> Ah Chriſtians! How dangerous was our Condition? How deſperate was our Di<g ref="char:EOLhyphen"/>ſtemper, that ſtood in need of ſuch a <hi>Phyſi<g ref="char:EOLhyphen"/>cian?</hi> To what a heighth had our Pride carry'd us; that it ſhould be neceſſary for the great <hi>God of Heaven</hi> to deſcend into a Stable to abate it? How ſtrongly was our Heart faſtn'd and wedded to the Riches and Plea<g ref="char:EOLhyphen"/>ſures of the <hi>Earth;</hi> that it ſhould be neceſſa<g ref="char:EOLhyphen"/>ry for the <hi>King</hi> of <hi>Glory</hi> to lye in a Manger, to diſengage it? <hi>Ex conſideratione Remedii, periculi mei aeſtimo quantitatem.</hi>
+               </p>
+               <p>But, <hi>Chriſtians,</hi> will all this ſuffice? Is the Remedy great enough for the Diſeaſe? Has <hi>Jeſus Chriſt</hi> laid himſelf low enough for your <hi>Example?</hi> The great <hi>God</hi> of <hi>Heaven</hi> has made
+<pb n="14" facs="tcp:52980:9"/>
+himſelf the leaſt and loweſt of <hi>Men:</hi> You great Ones of the Earth, will you thence learn to be <hi>Humble?</hi> You little Ones, will you leave to be <hi>Envious</hi> or <hi>Ambitious?</hi> The <hi>King of Glory</hi> has made himſelf the pooreſt of Men: You rich Ones of the World, will you learn not to ſet ſuch a value on your Riches? You poor Men, will you learn not to repine for your Poverty, or murmur againſt Provi<g ref="char:EOLhyphen"/>dence? The Author of all Bliſs and Happi<g ref="char:EOLhyphen"/>neſs, lies ſhivering in a cold and hard Man<g ref="char:EOLhyphen"/>ger: You delicate Chriſtians of this Age, will you learn to Suffer?</p>
+               <p>Ah <hi>Chriſtians!</hi> What can be more con<g ref="char:EOLhyphen"/>vincing, than theſe practical <hi>Arguments</hi> of our divine <hi>Saviour?</hi> What can be more perſua<g ref="char:EOLhyphen"/>ſive, than the <hi>Rhetoric</hi> of this ſilent <hi>Babe?</hi> What can be more powerful than his Exam<g ref="char:EOLhyphen"/>ple, to diſabuſe Men of thoſe falſe Notions, thoſe wrong Idea's, which Opinion and Cuſtom, the Principles and Practices of the World have fix'd in them?</p>
+               <p>For, <hi>Chriſtians,</hi> if our <hi>Sovereign Lord</hi> and <hi>Maſter</hi> came thus into the World; if He that had it in his power to appear all in <hi>Glory</hi> and <hi>Majeſty;</hi> if He that could have abounded with all Plenty and Magnificence; if He, I
+<pb n="15" facs="tcp:52980:9"/>
+ſay, choſe the Poverty and Ignominy of a Sta<g ref="char:EOLhyphen"/>ble; what follows then, but that terrible con<g ref="char:EOLhyphen"/>ſequence St. <hi>Bernard</hi> draws from thence, <hi>viz.</hi> That either Chriſt is <hi>miſtaken,</hi> or the World is in a great <hi>Error;</hi> either Chriſt knew not how to make a good choice, or Men are con<g ref="char:EOLhyphen"/>vinc'd to make a very bad one: <hi>Aut Chriſtus</hi> 
+                  <note place="margin">St. <hi>Bern.</hi>
+                  </note>
+                  <hi>fallitur, aut Mundus errat.</hi> Chriſt made choice of Poverty, and Men fly it as the greateſt Miſery. Chriſt choſe to be in want, and Men ſeek nothing but Plenty; Chriſt choſe to ap<g ref="char:EOLhyphen"/>pear Little and Abject, and Men ſtrive all they can to grow Great and Glorious; Chriſt choſe to lye hid in the obſcurity of a dark Night, and Men ſeek all Means to publiſh and proclaim themſelves to the World: Chriſt choſe to be born in the depth of Winter, to lodge in a cold Stable, a hard Manger; and Men ſeek nothing but the Eaſe, Commodi<g ref="char:EOLhyphen"/>ty, and ſatisfaction of their Body. Oh! how contrary is their Choice? How oppoſit are their Ways? They are in two Extremes; they cannot both be in the right; there<g ref="char:EOLhyphen"/>fore, <note place="margin">S. <hi>Bern.</hi>
+                  </note>either Chriſt is deceiv'd, or Men are under a great miſtake. <hi>Aut Chriſtus falli<g ref="char:EOLhyphen"/>tur, aut Mundus errat.</hi>
+               </p>
+               <p>
+                  <pb n="16" facs="tcp:52980:10"/>
+And what think you, my belov'd <hi>Brethren?</hi> For whom will you pronounce? Is <hi>Jeſus Chriſt</hi> in the <hi>right?</hi> Has the eternal <hi>Wiſdom</hi> of <hi>Heaven</hi> made a good Choice here upon <hi>Earth?</hi> Do you approve of His Choice? Do you approve of His coming into the World, after that poor manner in which our <hi>Solem<g ref="char:EOLhyphen"/>nity</hi> repreſents Him unto you? Do's his Sta<g ref="char:EOLhyphen"/>ble, his Manger, his poor and low Condi<g ref="char:EOLhyphen"/>tion pleaſe you?</p>
+               <p>If you approve of his Judgment in making ſuch a Choice, why then do you govern your ſelves by ſuch oppoſit <hi>Maxims?</hi> If you like his <hi>Ways,</hi> why are you ſo unwilling to tread in his <hi>Steps?</hi> If you eſteem the Pover<g ref="char:EOLhyphen"/>ty and Humility of the <hi>Infant Jeſus,</hi> why do you ſo greedily thirſt after the Riches and Honors of the <hi>World?</hi>
+               </p>
+               <p>Alas! 'tis here that we Chriſtians too often imitate the <hi>Jews,</hi> who had a high Eſteem, a great Veneration for their <hi>Meſſias,</hi> whilſt he was at a diſtance; whilſt they beheld him in their glorious <hi>Propheſies;</hi> but when he came amongſt them, they would not take notice of him. The longing expectation of ſo many <hi>Ages,</hi> the deſir'd of all <hi>Nations,</hi> the ſo much wiſh'd for <hi>Meſſias;</hi> when He came
+<pb n="17" facs="tcp:52980:10"/>
+into the World, they would not know Him, becauſe of the low and abject Condition he appear'd in. <hi>In Mundo erat, &amp; Mundus eum</hi> 
+                  <note place="margin">Joan 1. 10.</note>
+                  <hi>non cognovit.</hi>
+               </p>
+               <p>And juſt thus it goes with us <hi>Chriſtians.</hi> We Honor, we eſteem <hi>Jeſus Chriſt</hi> at a di<g ref="char:EOLhyphen"/>ſtance; but if He come near us, or begin to draw us near to himſelf; Oh! then we pre<g ref="char:EOLhyphen"/>ſently fly from him; we are aſham'd of his Company; we find him troubleſome to us. He appears all in Poverty, and we can eſteem nothing but Riches and Plenty; He talks to us of Humiliations and Abjections, and we de<g ref="char:EOLhyphen"/>ſire to be Eſteem'd and Honor'd; He ſpeaks of Sufferings and Mortifications, and we love nothing but our Eaſe and Pleaſure.</p>
+               <p>Thus you ſee, we imitate the <hi>Jews;</hi> we honor <hi>Jeſus Chriſt</hi> at a diſtance, but when he comes near us, we know him not; we eſteem the Poverty of our <hi>Saviour,</hi> ſo long as it remains with him in the Stable; we admire and bleſs his Sufferings, his Mortifi<g ref="char:EOLhyphen"/>cations, provided that he keep them cloſe ſhut up with himſelf in the Manger; but if he bring any of his Poverty into our Houſe, into our Family; if he communicate any ſhare of his Sufferings to us; Oh! then we
+<pb n="18" facs="tcp:52980:11"/>
+are of another mind; then we find a thou<g ref="char:EOLhyphen"/>ſand Reaſons to diſapprove of them; we have a thouſand Pretences to excuſe our ſelves from admitting of them.</p>
+               <p>Hence, at the ſame time that we ſeem to approve, we really diſapprove of Chriſts Choice; we like, and diſlike his Ways; we eſteem, and condemn his Judgments. Whilſt we only diſcourſe of Things; whilſt we ſpeak of Him and his Proceedings, we are even ra<g ref="char:EOLhyphen"/>viſh'd at this admirable conduct of his Wiſ<g ref="char:EOLhyphen"/>dom. That our <hi>God,</hi> that our great <hi>God</hi> ſhould become a <hi>Child;</hi> that He ſhould be born in a <hi>Stable,</hi> lodg'd in a <hi>Manger;</hi> that He ſhould come into the World after ſuch a poor and humble manner. Oh! 'twas the moſt incomparable Method he could take, to cure the Wounds of our Soul; 'twas the wiſeſt Choice he could make, to ſhew himſelf our <hi>Saviour.</hi>
+               </p>
+               <p>But when He would apply this Remedy to us; when He would make the ſame Choice for us, which we ſo much approve of in him; Oh! then we are of another Judgment; then we do not ſtick to ſay, (at leaſt by our Acti<g ref="char:EOLhyphen"/>ons and Behavior,) we do not ſtick to ſay, <hi>Chriſt</hi> is deceiv'd; the eternal <hi>Wiſdom</hi> of <hi>Hea<g ref="char:EOLhyphen"/>ven</hi>
+                  <pb n="19" facs="tcp:52980:11"/>
+is miſtaken in the Choice he would make for us. <hi>Chriſtus fallitur.</hi> Titles of Honor, Pla<g ref="char:EOLhyphen"/>ces of Reſpect, Worldly Dignities, Riches and Plenty, are much better for us; the World knowes beſt how to make a good Choice for us; the World is in the right; <hi>Chriſt</hi> is de<g ref="char:EOLhyphen"/>ceiv'd. <hi>Chriſtus fallitur, Mundus non errat.</hi>
+               </p>
+               <p>But, <hi>Chriſtians,</hi> how then ſhall <hi>Jeſus Chriſt</hi> be a Saviour to us? How ſhall he give <hi>Glory</hi> to <hi>God;</hi> or bring that <hi>Peace</hi> and <hi>Joy</hi> to <hi>Men,</hi> which you heard the Angels publiſh this Day? Muſt we deſire this Divine <hi>Infant</hi> to return back again to <hi>Heaven;</hi> to take ſome new In<g ref="char:EOLhyphen"/>ſtructions, to reſolve on ſome new Counſels, ſome other Methods? Muſt we deſire Him to come to us after another manner, than that we now behold him in? He thought this the moſt proper to glorify <hi>God,</hi> and ſave <hi>Men.</hi> His eternal Father is well pleaſed with it. He has ſent down a multitude of Angels to expreſs his Satisfaction: Theſe Bleſſed <hi>Spirits</hi> no ſooner beheld the Humility and Poverty of his <hi>Birth,</hi> but they preſently ſung <hi>Glory to God.</hi> And, I muſt tell you, all that deſire to have any ſhare in that <hi>Peace</hi> and <hi>Joy,</hi> they publiſh'd at the ſame time to <hi>Men,</hi> muſt be of the ſame Judgment: All that will be
+<pb n="20" facs="tcp:52980:12"/>
+ſav'd by Chriſt, muſt conform themſelves to the Meaſures and Methods he has taken to be their Saviour. What He came from Hea<g ref="char:EOLhyphen"/>ven to teach, we muſt learn upon Earth: What <hi>Jeſus</hi> did to ſave us, we muſt do to be ſav'd by <hi>Jeſus;</hi> which is what I am to diſ<g ref="char:EOLhyphen"/>courſe of in my Second Part.</p>
+            </div>
+            <div n="2" type="part">
+               <head>Second Part.</head>
+               <p>'Tis hard to ſay, whether it be more aſto<g ref="char:EOLhyphen"/>niſhing, that <hi>God</hi> ſhould not diſdain to be<g ref="char:EOLhyphen"/>come like <hi>Men,</hi> or that <hi>Men</hi> ſhould diſ<g ref="char:EOLhyphen"/>dain to become like <hi>God?</hi> That God ſhould come down from Heaven to teach Men, or that Men ſhould be unwilling to learn of ſuch a <hi>Maſter?</hi> That He ſhould undertake to be their <hi>Phyſician,</hi> or that they ſhould re<g ref="char:EOLhyphen"/>fuſe to make uſe of his <hi>Remedies?</hi>
+               </p>
+               <p>In the Firſt Part of this Diſcourſe, we have ſeen how God has made himſelf Little, Poor, and Abject; to teach us a Leſſon of Humi<g ref="char:EOLhyphen"/>lity, Poverty, and Mortification. We have ſeen alſo, how this heavenly Phyſician is come down to the Bed-ſide (as St. <hi>Auguſtin</hi> ob<g ref="char:EOLhyphen"/>ſerves,) of ſick Man; and He not only pre<g ref="char:EOLhyphen"/>ſcribes him Remedies, but alſo to make them
+<pb n="21" facs="tcp:52980:12"/>
+go down the eaſier, he firſt makes tryal of <note place="margin">
+                     <p>Prior bibit Me<g ref="char:EOLhyphen"/>dicus ſanus, ut bibere non du<g ref="char:EOLhyphen"/>bitaret Aegro<g ref="char:EOLhyphen"/>tus.</p>
+                     <p>
+                        <hi>St.</hi> Aug. <hi>Serm. 59.</hi> de verbis dai.</p>
+                  </note> them himſelf. <hi>Ad ſanandum grandem Aegro<g ref="char:EOLhyphen"/>tum deſcendit omnipotens Medicus; Humilia<g ref="char:EOLhyphen"/>vit ſe uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad mortalem carnem, tanquam ad lectum Aegrotantis.</hi>
+               </p>
+               <p>But who is willing to practice the <hi>Leſſons</hi> he teaches? Who is willing to apply the <hi>Re<g ref="char:EOLhyphen"/>medies</hi> he preſcribes? Which of you is re<g ref="char:EOLhyphen"/>ſolv'd to make his Humility an Antidote a<g ref="char:EOLhyphen"/>gainſt your Pride? Which of you is reſolv'd to draw from his <hi>Poverty,</hi> a Motive to abate ſomething of that Vanity in your Apparel; that Superfluity in your Furniture; that Ex<g ref="char:EOLhyphen"/>ceſs in your Table? Let every one (ſay's St. <hi>Bernard,)</hi> examin himſelf, and ſee what Ef<g ref="char:EOLhyphen"/>fect theſe powerful Remedies have wrought in him. <hi>Cogitet unuſquiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quantum in eo operentur tam ſalutaria Medicamenta.</hi>
+               </p>
+               <p>But, Alas! my dear Brethren, is it not true, what the ſame Holy <hi>Father</hi> adds? Is it not true, that there are ſome Chriſtians, to whom <hi>Chriſt</hi> is not yet born; who are not willing to be ſav'd after the manner he has taken to be their <hi>Saviour;</hi> who are not really glad that <hi>Chriſt</hi> is come into the VVorld? <hi>Sunt quibus nondum natus eſt Chriſtus.</hi>
+               </p>
+               <p>
+                  <pb n="22" facs="tcp:52980:13"/>
+The <hi>Angels</hi> were full of Joy at his Birth; and they made haſt to communicate this good News to Men, to carry them the joy<g ref="char:EOLhyphen"/>ful Tydings, that their <hi>Saviour</hi> is born. <hi>Evan<g ref="char:EOLhyphen"/>gelizo</hi> 
+                  <note place="margin">Lu<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 2. 10.</note>
+                  <hi>vobis gaudium magnum quia natus eſt vobis Salvator.</hi>
+               </p>
+               <p>But, <hi>Chriſtians,</hi> are you glad to hear this good News? Is it a Joy to you, to hear your <hi>Saviour</hi> is born? Certainly, all that are in Miſery, muſt needs be glad to hear of a <hi>Sa<g ref="char:EOLhyphen"/>viour:</hi> And methinks every one in this <hi>Aſ<g ref="char:EOLhyphen"/>ſembly,</hi> ſpeaks the Content of his Heart, by the joyful Air of his Countenance; every one ſeems well pleas'd to hear from the Angel, that our <hi>Saviour</hi> is born. But, <hi>Chriſtians,</hi> are you glad (let me once more put the Que<g ref="char:EOLhyphen"/>ſtion to you,) are you glad to have the <hi>In<g ref="char:EOLhyphen"/>fant Jeſus</hi> for your <hi>Saviour?</hi> Are you wil<g ref="char:EOLhyphen"/>ling to be ſav'd after the Method he has taken to be your <hi>Saviour?</hi>
+               </p>
+               <p>I muſt then tell you plainly, He can no o<g ref="char:EOLhyphen"/>therwiſe be a <hi>Saviour</hi> to you, than by taking out of your Heart that Pride, that Ambition, that Avarice, which have ſo long kept poſ<g ref="char:EOLhyphen"/>ſeſſion there: He cannot be your <hi>Saviour,</hi> (once more hear it) but by taking out of your Heart that love of the World, that love of
+<pb n="23" facs="tcp:52980:13"/>
+Honor, that love of Riches, that love of Plea<g ref="char:EOLhyphen"/>ſure, which has been ſo long <hi>Maſter</hi> of your Heart. And are you glad to hear of ſuch a <hi>Saviour?</hi> Are you willing, that he ſhould free you from thoſe pleaſing <hi>Enemies</hi> of your <hi>Salvation?</hi> Are you willing that he ſhould tear from your Heart, thoſe ſo long ſettl'd Affections? Are you willing that <hi>Jeſus Chriſt</hi> ſhould make a total Change, an entire Con<g ref="char:EOLhyphen"/>verſion, a thorough Reformation in your Soul? Are you willing that he ſhould ſettle the ſame Judgments, the ſame Affections, the ſame Inclinations in you, which this Day you have ſeen appear in him? In a word, Are you willing that he ſhould make you like himſelf, as he has made himſelf like you?</p>
+               <p>They that are not willing he ſhould do this; they that will not permit him to do this, muſt look for ſome other <hi>Saviour;</hi> they muſt with the <hi>Jews,</hi> expect the coming of a<g ref="char:EOLhyphen"/>nother <hi>Meſſias:</hi> The Divine <hi>Child</hi> of <hi>Bethle<g ref="char:EOLhyphen"/>hem,</hi> is no <hi>Saviour</hi> for them; the <hi>Infant Je<g ref="char:EOLhyphen"/>ſus</hi> is not born for them: <hi>Sunt quibus nondum natus eſt Chriſtus.</hi> He is a <hi>Saviour,</hi> becauſe he's Humble; He is a <hi>Saviour,</hi> becauſe he's Poor; He is a <hi>Saviour,</hi> becauſe he Suffers. Who<g ref="char:EOLhyphen"/>ſoever will not partake of his Humility, of
+<pb n="24" facs="tcp:52980:14"/>
+his Poverty, of his Mortifications, ſhall have no ſhare in his <hi>Redemption;</hi> He will be no <hi>Saviour</hi> to them. <hi>Sunt quibus nondum natus eſt Chriſtus.</hi>
+               </p>
+               <p>And what? Muſt then <hi>Rich Men</hi> diveſt themſelves of all their <hi>Poſſeſſions?</hi> Muſt <hi>No<g ref="char:EOLhyphen"/>ble Men</hi> turn their <hi>Beds</hi> of <hi>State</hi> into <hi>Mangers?</hi> Muſt <hi>Kings</hi> and <hi>Queens</hi> leave their <hi>Thrones,</hi> and retire into <hi>Stables,</hi> to partake of this Days great <hi>Bleſſing;</hi> to be ſav'd by a <hi>Meſſias,</hi> who appears all in <hi>Poverty</hi> and <hi>Humility?</hi>
+               </p>
+               <p>No, no <hi>Chriſtians.</hi> The Divine <hi>Child</hi> of <hi>Bethlehem,</hi> whom this Day you ſee worſhip'd by poor <hi>Shepherds,</hi> twelve Days hence you will ſee ador'd by <hi>Kings.</hi> 'Tis not therefore the exterior Marks of Honor or Humility, of Plenty or Poverty, but the interior diſpo<g ref="char:EOLhyphen"/>ſition of the Heart that he regards; 'tis Po<g ref="char:EOLhyphen"/>verty of Spirit, 'tis Humility of Heart, that he requires in all thoſe that will be ſav'd by him. Alaſs! there are many, who under a poor and abject Appearance, cover ambiti<g ref="char:EOLhyphen"/>ous and covetous Minds; who are ſtill com<g ref="char:EOLhyphen"/>plaining, repining, and murmuring againſt <hi>Providence;</hi> and theſe <hi>Perſons,</hi> tho they are poor and abject, yet have no comfort in the Poverty and Humility of the <hi>Infant Jeſus.</hi> On the contrary, There are others, whom
+<pb n="25" facs="tcp:52980:14"/>
+                  <hi>God Almighty</hi> has plac'd in eminent <hi>Stations,</hi> who by the diſpoſition of <hi>Providence,</hi> not by any ambition of their own Heart, are rais'd to high <hi>Dignities;</hi> who poſſeſs vaſt Trea<g ref="char:EOLhyphen"/>ſures; but, as St. <hi>Auguſtin</hi> ſay's of them, amidſt all the Honors and Pomps of the World, conſerve an humble Heart to God. <hi>In ſuperbo cultu cor Humile.</hi> Who, whilſt they <note place="margin">St. <hi>Aug.</hi> Epiſt. 199.</note>behold their <hi>Saviour</hi> in his Stable, look upon themſelves with a holy kind of Contempt, to ſee their Condition ſo different from his: In fine, who often pronounce in their Heart, what we read of the incomparable <hi>Queen He<g ref="char:EOLhyphen"/>ſter;</hi> who when She was at the heighth of all the Greatneſs and Glory a moſt powerful <hi>Monarch</hi> could raiſe her too, yet confident<g ref="char:EOLhyphen"/>ly told <hi>Almighty God,</hi> that He knew ſhe was ſo far from taking any complacence in thoſe Honors, that ſhe rather ſubmitted to them by Neceſſity, than affected them by Vanity. <hi>Tu ſcis neceſſitatem meam, quod abominer ſig<g ref="char:EOLhyphen"/>num</hi> 
+                  <note place="margin">
+                     <hi>Eſther</hi> 14. 16.</note>
+                  <hi>Gloriae meae quod eſt ſuper caput meum, in diebus oſtentationis meae.</hi>
+               </p>
+               <p>To wear rich Apparel, to have a Houſe well furniſh'd, to receive the Reſpects and Submiſſions of Men, may be a decency due to the <hi>Rank God Almighty</hi> has plac'd you in;
+<pb facs="tcp:52980:15"/>
+but to take pride in thoſe Honors, to delight in thoſe fine Cloaths, to buſie your Thoughts much about them, to ſet your Heart upon them, is a <hi>Vanity</hi> our <hi>Saviour</hi> condemns, by the Humility and Poverty of his Stable.</p>
+               <p>To be Great, to be Rich, may be a Bleſſing of <hi>Heaven;</hi> but to place ones Happineſs in ſuch things, to thirſt vehemently after them, is that great, that general Crime of the World, which the whole Life and Doctrin of our <hi>Saviour</hi> was a condemnation of.</p>
+               <p>Thoſe Perſons therefore, whoſe Minds are always big with ambitious Deſigns, who are continually gaping after ſome new Prefer<g ref="char:EOLhyphen"/>ment; whoſe Hands are open on all ſides to receive Mony, who gripe all the Wealth that comes near them. Oh! theſe are they who have no ſhare in that <hi>Peace,</hi> that <hi>Joy,</hi> which our <hi>New born Saviour</hi> brought this Day into the World.</p>
+               <p>How much then are they deceiv'd in their Devotion, who, becauſe they were preſent laſt Night at the Divine <hi>Office;</hi> becauſe they heard the Three <hi>Maſſes;</hi> becauſe they re<g ref="char:EOLhyphen"/>ceiv'd the Bleſſed <hi>Sacrament;</hi> therefore think they have done all that is requiſit to honor this great <hi>Feaſt?</hi> Alas! all this is but the exte<g ref="char:EOLhyphen"/>rior
+<pb n="27" facs="tcp:52980:15"/>
+of this Days <hi>Devotion.</hi> The true Honor due to this <hi>Solemnity,</hi> is the diſengaging of our Heart from the love of this World: 'Twas for this, that <hi>Chriſt</hi> was born in a <hi>Sta<g ref="char:EOLhyphen"/>ble;</hi> 'twas for this, that he came down from <hi>Heaven,</hi> that (as the <hi>Apoſtle</hi> ſpeaks,) he might <hi>diſengage us from this wicked World; that we might renounce all Impiety, and worldly Deſires.</hi>
+               </p>
+               <p>Whoſoever therefore will cheriſh in his Heart any of thoſe Deſires, any of thoſe Paſſions which Chriſt came to free us from, will find no comfort in the <hi>Birth</hi> of his <hi>Sa<g ref="char:EOLhyphen"/>viour.</hi> No, no, St. <hi>Bernard</hi> tells us plainly and truly, The poor <hi>Stable</hi> of <hi>Bethlehem,</hi> will afford no comfort to thoſe that ſet their Hearts on <hi>Riches; Chriſts</hi> low and humble <hi>Manger,</hi> will afford no comfort to thoſe that aſpire at <hi>Titles</hi> of <hi>Honor,</hi> high <hi>Places</hi> of <hi>Pre<g ref="char:EOLhyphen"/>ferment;</hi> His poor <hi>Swadling Bands,</hi> will afford no comfort to thoſe that delight in fine <hi>Cloaths. Non conſolantur panni ejus ambulan<g ref="char:EOLhyphen"/>tes</hi> 
+                  <note place="margin">
+                     <hi>St.</hi> Bern. <hi>Serm<g ref="char:punc">▪</g>
+                     </hi> de Nativ.</note>
+                  <hi>in ſtolis, non conſolatur praeſepe &amp; ſtabu<g ref="char:EOLhyphen"/>lum, amantes primas Cathedras in Synagogis.</hi>
+               </p>
+               <p>Thoſe Perſons alſo, that live always out of themſelves, that willl be always abroad, al<g ref="char:EOLhyphen"/>ways in Company and Entertainments, nei<g ref="char:EOLhyphen"/>ther will they find any comfort in the <hi>Soli<g ref="char:EOLhyphen"/>tude</hi>
+                  <pb n="28" facs="tcp:52980:16" rendition="simple:additions"/>
+and <hi>Silence</hi> of the <hi>Infant Jeſus;</hi> they that will be always in Mirth and Jollity, will find no comfort in the Tears of this weeping <note place="margin">St. <hi>Bern.</hi> Serm. 5. <hi>de Nativi<g ref="char:EOLhyphen"/>tate.</hi>
+                  </note>
+                  <hi>Babe. Non conſolatur Chriſti Infantia garru<g ref="char:EOLhyphen"/>los, non conſolantur Chriſti lacrymae cachinantes.</hi>
+               </p>
+               <p>No, no, <hi>Chriſtians;</hi> They that will find comfort in <hi>Jeſus,</hi> muſt not ſeek it in things which he baniſh'd far from himſelf. Riches, Honors, Plays, Divertiſements and great En<g ref="char:EOLhyphen"/>tertainments, are not to be found in his <hi>Sta<g ref="char:EOLhyphen"/>ble;</hi> and therefore, who ſets his Heart on theſe things, will never find Content in his <hi>New-born Saviour.</hi>
+               </p>
+               <p>You know well, two Perſons can never live eaſily together; they can never find Sa<g ref="char:EOLhyphen"/>tisfaction in each other; they can never make up a laſting <hi>Friendſhip,</hi> unleſs they be ſome<g ref="char:EOLhyphen"/>thing alike in their Judgments, in their Hu<g ref="char:EOLhyphen"/>mors and Ways. You ſee what are the Ways of the <hi>Infant Jeſus;</hi> you ſee his <hi>Humor,</hi> his Inclination is to be in <hi>Solitude</hi> and <hi>Silence.</hi> 'Tis for this, that He choſe rather to be born in the <hi>Fields</hi> than Town of <hi>Bethlehem,</hi> that he might be far from the Noiſe and Diſtur<g ref="char:EOLhyphen"/>bances of this buſie World; 'tis for this, that the public <hi>Inns</hi> were no place of abode for him; He choſe rather to lye in a <hi>Stable,</hi> than
+<pb n="29" facs="tcp:52980:16"/>
+not to be in <hi>Retirement.</hi> Whoſoever there<g ref="char:EOLhyphen"/>fore deſires to make up a <hi>Friendſhip</hi> with him, muſt be of the ſame Humor; he muſt ſome<g ref="char:EOLhyphen"/>times withdraw himſelf from the Converſa<g ref="char:EOLhyphen"/>tion of <hi>Men,</hi> and noiſe of worldly <hi>Affairs,</hi> if he will enjoy the company of <hi>Jeſus</hi> in his ſo<g ref="char:EOLhyphen"/>litary <hi>Stable.</hi>
+               </p>
+               <p>You ſee alſo what is his Opinion, what Judgment he makes of Things, what Spirit predominates in Him: You ſee, he eſteems Poverty, Humility, Lowlineſs, Mortification. Whoſoever pretends to be his Friend, muſt be of the ſame Opinion, the ſame Judgment; he muſt be acted by the ſame <hi>Spirit:</hi> For the <hi>Apoſtle</hi> tells us plainly, He that has not this <hi>Spirit</hi> of <hi>Chriſt,</hi> do's not belong to <hi>Chriſt;</hi> he cannot be one of his Friends. <hi>Si quis non ha<g ref="char:EOLhyphen"/>bet Spiritum Chriſti, hic non eſt ejus.</hi>
+               </p>
+               <p>
+                  <hi>Chriſtians!</hi> Do you rightly apprehend this terrible Expreſſion of the <hi>Apoſtle?</hi> Re<g ref="char:EOLhyphen"/>flect a little on it. Not to belong to <hi>Jeſus Chriſt!</hi> to have no ſhare in his <hi>Friendſhip!</hi> to have no part in that <hi>Peace</hi> and <hi>Joy,</hi> which he brought this Day into the World! Oh God! what a diſmal Sentence is this? <hi>Si quis non habet Spiritum Chriſti, hic non eſt ejus.</hi>
+               </p>
+               <p>He that has not his <hi>Spirit</hi> of <hi>Humility,</hi> his
+<pb n="30" facs="tcp:52980:17"/>
+                  <hi>Spirit</hi> of <hi>Poverty,</hi> his <hi>Spirit</hi> of <hi>Mortification;</hi> he do's not belong to <hi>Chriſt. Non eſt ejus.</hi>
+               </p>
+               <p>Examin therefore well your Hearts; ſee whether you have this <hi>Spirit</hi> of <hi>Chriſt,</hi> and that you may not be deceiv'd; (for alas! the Heart of Man, is an <hi>Abyſs</hi> of Darkneſs: They that are continually ſearching into it by their moſt ſerious Conſiderations, and pious Me<g ref="char:EOLhyphen"/>ditations, have difficulty enough to diſcover the ſecret Springs, and hidden Sourſe of that Pride, Avarice and Ambition, which lye deep rooted in our Nature). Therefore, that you may not be deceiv'd in the <hi>Judgment</hi> you make of your Heart, obſerve how you be<g ref="char:EOLhyphen"/>have your ſelves in the Occaſions and Tryals your <hi>Saviour</hi> gives you of manifeſting his <hi>Spirit,</hi> of imitating his <hi>Humility</hi> and <hi>Poverty.</hi> When therefore, you ſee others preferr'd be<g ref="char:EOLhyphen"/>fore you; when you ſee them rais'd to great Honors, and your ſelf neglected and unre<g ref="char:EOLhyphen"/>garded: If you repine and murmur at this; when God Almighty takes away ſome tem<g ref="char:EOLhyphen"/>poral Advantage from you; when he leſſens your Riches by ſuch Misfortunes as he per<g ref="char:EOLhyphen"/>mits to fall upon you. If you are tranſported with Trouble and Diſquiet of Mind; 'tis a terrible ſign, that your eſteem of his
+<pb n="31" facs="tcp:52980:17"/>
+Humility and Poverty, was only in Fancy and Imagination; 'tis an evident mark, that your Heart is ſtrongly ty'd to the Honors and Riches of this World; 'tis a convincing proof, that you are govern'd by ſome other <hi>Spirit</hi> than that of <hi>Chriſt;</hi> that you are guid<g ref="char:EOLhyphen"/>ed by other <hi>Maxims,</hi> than thoſe he preaches from his <hi>Manger.</hi>
+               </p>
+               <p>
+                  <note place="margin">Propter vos egenus factus eſt, cum eſſet di<g ref="char:EOLhyphen"/>ves. <hi>2 Corn.</hi> 
+                     <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Alaſs! Dear Chriſtians, <hi>Jeſus</hi> was rich; and he became thus poor for our ſakes, that he might quench in our Hearts that ardent Thirſt we have after Riches. He was at the heighth of Honor, Glory and Greatneſs; and he has made himſelf thus Little and Abject, that he might beget in us a contempt of all worldly Greatneſs. He was incapable of ſuf<g ref="char:EOLhyphen"/>fering any thing in his own <hi>Nature;</hi> and he has taken ours, that he may ſuffer in all Kinds; and thereby give us an <hi>Example</hi> of Penance and Mortification.</p>
+               <p>Let us awaken then (dear <hi>Chriſtians);</hi> Let us awaken out of that Dream, which the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> of Lyes has ſo long deluded us with: Let us withdraw our Thoughts from thoſe Impreſſions, which Cuſtom and Opinion, the Principles and Practice of the World have impos'd upon us: Let us leave the World
+<pb n="32" facs="tcp:52980:18"/>
+to think, and ſpeak according to its Rules and Maxims. But for us that are <hi>Chriſtians,</hi> let us govern our ſelves by the Maxims of <hi>Chriſt;</hi> let us hearken to him, who is come from Heaven to be our <hi>Maſter:</hi> And no where do's he teach us more efficaciouſly, than in the <hi>Myſtery</hi> of this Days <hi>Solemnity.</hi> The <hi>Sta<g ref="char:EOLhyphen"/>ble</hi> of <hi>Bethlehem,</hi> is the proper <hi>School</hi> of Chriſtians; the <hi>Manger,</hi> is the Pulpit from which this great <hi>Evangeliſt</hi> firſt began to preach to the <hi>World.</hi>
+               </p>
+               <p>Let us therefore often enter into this <hi>School;</hi> let us draw near to this <hi>Pulpit;</hi> let us hearken to this divine <hi>Preacher.</hi> He is Si<g ref="char:EOLhyphen"/>lent, but every thing (as St. <hi>Bernard</hi> obſerves,) has a Voice; every thing Preaches: His <hi>Sta<g ref="char:EOLhyphen"/>ble</hi> preaches, his <hi>Manger</hi> preaches, his <hi>Swad<g ref="char:EOLhyphen"/>ling-Cloaths</hi> preach; his <hi>Tears</hi> preach, his very <note place="margin">St. <hi>Bern.</hi> Serm. 5. <hi>de Nativi<g ref="char:EOLhyphen"/>tate.</hi>
+                  </note>
+                  <hi>Silence</hi> preaches. <hi>Clamat Stabulum, clamat praeſepe, clamant panni, clamant lacrymae, ipſa Infantilia membra clamant; &amp; quid clamant?</hi> And what is't they preach? They preach Hu<g ref="char:EOLhyphen"/>mility, Poverty, Penance, Mortification, con<g ref="char:EOLhyphen"/>tempt of all worldly Riches, Pleaſures and <note place="margin">
+                     <hi>St.</hi> Bern. ibid.</note>Honors. <hi>Clamant Humilitatem, Paupertatem, Poenitentiam, contemptum Opum, Deliciarum, &amp; commodorum Mundi.</hi>
+               </p>
+               <p>
+                  <pb n="33" facs="tcp:52980:18"/>
+Theſe are the great Leſſons <hi>Chriſt</hi> preaches from his <hi>Manger;</hi> theſe are the important In<g ref="char:EOLhyphen"/>ſtructions, <hi>Chriſtians</hi> muſt learn from this di<g ref="char:EOLhyphen"/>vine <hi>Maſter.</hi> By this, we ſhall joyn with the Angels in giving <hi>Glory</hi> to God, and fit our ſelves for that <hi>Peace,</hi> which God is come to give to Men. This <hi>Peace</hi> is the great Bleſ<g ref="char:EOLhyphen"/>ſing our <hi>New-born Saviour</hi> has brought us from Heaven; the greateſt Happineſs we can enjoy here upon Earth; and an Earneſt of that eternal <hi>Peace</hi> and <hi>Joy,</hi> we hope to find hereafter in <hi>Heaven.</hi> Which God of his infinit Goodneſs beſtow on your Sacred Ma<g ref="char:EOLhyphen"/>jeſty, and all this Pious Aſſembly.</p>
+               <closer>Amen.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
